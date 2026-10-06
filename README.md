@@ -26,12 +26,11 @@ Building web applications, solving problems, and exploring practical AI.
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Engineering student** who enjoys building practical
-applications and continuously improving my problem-solving skills.
+I'm a **Computer Engineering student** who enjoys building practical applications and continuously improving my problem-solving skills.
 
 - 💻 Full-stack development with **Python, Django & React**
-- 🧠 Consistently practicing **Data Structures & Algorithms**
-- 🤖 Exploring **AI/ML, RAG & intelligent applications**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🤖 Exploring **AI/ML and intelligent applications**
 - 🗄️ Working with **PostgreSQL & MySQL**
 - 🔧 Learning by building real projects
 - 🎯 Preparing for software engineering opportunities
@@ -40,23 +39,11 @@ applications and continuously improving my problem-solving skills.
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
-`Python` · `Java` · `JavaScript` · `C++`
+<div align="center">
 
-### 🎨 Frontend
-`React` · `HTML` · `CSS` · `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,react,tailwind,django,flask,nodejs,postgres,mysql,git,github,vscode&perline=8">
 
-### ⚙️ Backend
-`Django` · `Flask` · `Node.js` · `REST APIs`
-
-### 🗄️ Databases
-`PostgreSQL` · `MySQL`
-
-### 🤖 AI / ML
-`Scikit-learn` · `RAG` · `Embeddings` · `LLMs`
-
-### 🛠️ Tools
-`Git` · `GitHub` · `VS Code`
+</div>
 
 ---
 
@@ -66,7 +53,7 @@ applications and continuously improving my problem-solving skills.
 
 <a href="https://leetcode.com/u/Hemangi_Bawa/">
 
-<img src="https://github-readme-leetcode-card.romitsagu.com/Hemangi_Bawa?theme=dark" width="720">
+<img src="https://leetcard.jacoblin.cool/Hemangi_Bawa?theme=dark&font=Nunito&ext=heatmap" width="700">
 
 </a>
 
@@ -80,47 +67,48 @@ applications and continuously improving my problem-solving skills.
 
 ---
 
-## 🏅 LeetCode Achievements
+# 🏆 LeetCode Achievements
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Hemangi_Bawa/">
-<img src="./assets/leetcode/leetcode%20badge.png" width="220">
+<img src="https://img.shields.io/badge/🏅%2050%20Days%20Badge-2026-FFA116?style=for-the-badge">
 </a>
 
 <a href="https://leetcode.com/u/Hemangi_Bawa/">
-<img src="./assets/leetcode/leetcode%20badge%20100days.png" width="220">
+<img src="https://img.shields.io/badge/🏆%20100%20Days%20Badge-2026-FFA116?style=for-the-badge">
 </a>
 
 <a href="https://leetcode.com/u/Hemangi_Bawa/">
-<img src="./assets/leetcode/leetcode%20sep%2026.png" width="220">
+<img src="https://img.shields.io/badge/🔥%20September%20Challenge-2026-FFA116?style=for-the-badge">
 </a>
 
 </div>
 
+---
 
 ## ⚔️ Problem Solving
 
-```text
-Arrays & Hashing
-      ↓
-Two Pointers
-      ↓
-Stack & Queue
-      ↓
-Binary Search
-      ↓
-Trees
-      ↓
-Heap / Priority Queue
-      ↓
-Graphs
-      ↓
-Dynamic Programming
-```
+<div align="center">
 
-> My focus is on understanding the **patterns behind problems**, not just
-> memorizing solutions.
+<img src="https://img.shields.io/badge/Arrays%20%26%20Hashing-✓-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Two%20Pointers-✓-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Stack%20%26%20Queue-✓-blue?style=for-the-badge">
+
+<br>
+
+<img src="https://img.shields.io/badge/Binary%20Search-✓-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Trees-✓-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Heap%20%2F%20Priority%20Queue-✓-purple?style=for-the-badge">
+
+<br>
+
+<img src="https://img.shields.io/badge/Graphs-Learning-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Dynamic%20Programming-Learning-orange?style=for-the-badge">
+
+</div>
+
+> My focus is on understanding the **patterns behind problems**, not just memorizing solutions.
 
 ---
 
@@ -128,12 +116,12 @@ Dynamic Programming
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🛡️ DefenderX
 
-Security-focused application designed to identify,
-analyze and respond to potential threats.
+Security-focused application designed to identify, analyze and respond to potential threats.
 
 **Focus**
 
@@ -145,40 +133,35 @@ analyze and respond to potential threats.
 
 ### 🔍 CodeSentry
 
-Developer-focused tool for analyzing source code,
-identifying potential issues and improving code quality
-and security.
+Developer-focused tool for analyzing source code, identifying potential issues and improving code quality and security.
 
 **Focus**
 
 `Python` `AI` `Code Analysis` `Security`
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
+<td width="50%">
 
 ### 🎓 Campus Event Management
 
-Django-based application for managing college events,
-registrations and attendance.
+Django-based application for managing college events, registrations and attendance.
 
 **Stack**
 
 `Python` `Django` `PostgreSQL`
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### ⭐ RatingHub
 
-Full-stack rating platform for managing users,
-ratings and database-driven interactions.
+Full-stack rating platform for managing users, ratings and database-driven interactions.
 
 **Stack**
 
@@ -186,16 +169,31 @@ ratings and database-driven interactions.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### 🤖 AI Projects
 
-Exploring AI-powered applications using retrieval,
-embeddings and intelligent workflows.
+Exploring AI-powered applications using retrieval, embeddings and intelligent workflows.
 
 **Exploring**
 
 `RAG` `LLMs` `Embeddings` `Vector Search`
+
+</td>
+
+<td width="50%">
+
+### 🤖 Lifestyle Recommendation System
+
+A recommendation-based application that provides personalized lifestyle suggestions based on user preferences and inputs.
+
+**Focus**
+
+`Python` `Machine Learning` `Recommendations` `Web Development`
 
 </td>
 </tr>
@@ -203,13 +201,13 @@ embeddings and intelligent workflows.
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bawahemangi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=bawahemangi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawahemangi&layout=compact&hide_border=true&theme=transparent" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawahemangi&layout=compact&theme=tokyonight&hide_border=true" width="40%">
 
 </div>
 
@@ -217,7 +215,17 @@ embeddings and intelligent workflows.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bawahemangi&theme=github-compact&hide_border=true&area=true" width="95%">
+<img src="https://streak-stats.demolab.com?user=bawahemangi&theme=tokyonight&hide_border=true&border_radius=10" width="70%">
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bawahemangi&theme=tokyo-night&hide_border=true&area=true" width="95%">
 
 </div>
 
@@ -263,6 +271,6 @@ embeddings and intelligent workflows.
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bawahemangi&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=bawahemangi&style=flat-square">
 
 </div>
